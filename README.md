@@ -1,1 +1,1 @@
-# AI-Leadership-Playbook
+# AIPlaybook
